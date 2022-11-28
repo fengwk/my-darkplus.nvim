@@ -1,4 +1,4 @@
-local c = require "user.core.colorscheme.my-darkplus.palette"
+local c = require "my-darkplus.palette"
 
 local hl = vim.api.nvim_set_hl
 local theme = {}
